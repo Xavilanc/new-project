@@ -1,0 +1,6 @@
+ul li {
+    display: inline-block;
+    justify-content: space-around;
+    background-color: gray;
+}
+
